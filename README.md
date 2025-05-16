@@ -83,10 +83,3 @@ java -jar target/canteen-order-system.jar
 - 首次运行前请确保数据库配置正确
 - 建议使用管理员账号进行系统初始化设置
 
-## 贡献指南
-
-欢迎提交Issue和Pull Request来帮助改进这个项目。
-
-## 许可证
-
-本项目采用 MIT 许可证 
